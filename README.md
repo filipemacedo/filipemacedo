@@ -1,16 +1,18 @@
-### Hi there 👋
+# Filipe Macedo;
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/lucasgdb)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipemacedo98/)](https://www.linkedin.com/in/filipemacedo98/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devmacedo@gmail.com)](mailto:devmacedo@gmail.com)
 
-<!--
-**filipemacedo/filipemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <em>
+    Entusiasta javascript, apaixonado por clean code e boas práticas, está sempre interessado em adquirir novos conhecimentos e gosta de solucionar novos desafios. No dia a dia, costuma usar a metodologia de desenvolvimento orientado a testes (TDD) e programação funcional. 
 
-Here are some ideas to get you started:
+Adora trabalhar com diversas tecnologias, como: Typescript, NodeJS, React Native, ReactJS, Angular e AWS (EC2, RDS, S3, Load Balancer e etc).
+  </em>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+![Github status](https://github-readme-stats.vercel.app/api?username=filipemacedo&show_icons=true&hide_border=true)
