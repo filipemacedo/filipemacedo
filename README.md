@@ -10,9 +10,3 @@
 Adora trabalhar com diversas tecnologias, como: Typescript, NodeJS, React Native, ReactJS, Angular e AWS (EC2, RDS, S3, Load Balancer e etc).
   </em>  
 </p>
-
-
-<br>
-
-
-![Github status](https://github-readme-stats.vercel.app/api?username=filipemacedo&show_icons=true&hide_border=true)
